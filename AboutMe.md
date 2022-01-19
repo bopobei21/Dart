@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dart
+- 🕒 I’m currently learning C#
+- 👀 I’m interested by creating apps on C#
+- 🧒 I’m 13 years old
